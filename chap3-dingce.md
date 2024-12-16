@@ -188,6 +188,6 @@
 
 勘测资料验收时应提交的资料详见下表（表3-3-1）  
 
-![](/home/zehao/.config/Typora/typora-user-images/image-20241216173529160.png)  
+![](/images/image-20241216173529160.png)  
 
 > 正如在基本要求中说明的那样，多出了第12条：各种协议、纪要、记录
